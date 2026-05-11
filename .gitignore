@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large dataset (optional — uncomment if too big for GitHub)
+# dataset/
+
+# Temporary outputs
+*.log

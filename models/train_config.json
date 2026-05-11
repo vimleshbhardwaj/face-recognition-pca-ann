@@ -1,0 +1,22 @@
+{
+  "k": 30,
+  "image_size": [
+    100,
+    100
+  ],
+  "confidence_threshold": 0.6,
+  "num_classes": 11,
+  "label_names": [
+    "Aamir",
+    "Ajay",
+    "Akshay",
+    "Alia",
+    "Amitabh",
+    "Deepika",
+    "Disha",
+    "Farhan",
+    "Ileana",
+    "Iris",
+    "faces"
+  ]
+}
